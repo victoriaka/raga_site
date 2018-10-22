@@ -21,7 +21,7 @@ echo '
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="#">ABOUT</a>
+                            <a class="nav-link" href="companyinfo.html">ABOUT</a>
                         </li>
 
                         <li class="nav-item">
